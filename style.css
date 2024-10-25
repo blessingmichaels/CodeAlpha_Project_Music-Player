@@ -19,7 +19,8 @@ body{
 }
 
 .music-player {
-    background: #ffe0e5;
+    /* background: #f4f745; */
+    background: black;
     width: 400px;
     padding: 25px 35px;
     text-align: center;
@@ -52,13 +53,13 @@ nav .circle {
 .music-player h1 {
     font-size: 20px;
     font-weight: 400;
-    color: #333;
+    color: #f53192;
     margin-top: 20px;
 }
 
 .music-player p {
     font-size: 14px;
-    color: #333;
+    color: #fff;
 }
 
 #progress {
